@@ -12,11 +12,11 @@ At present, my main interests are general computer science and machine learning,
 
 As I personally hate long and tedious blogposts that end up explaining stuff with x10 more words than required, I'll try to summarize as much as possible the covered topics. So, expect entries at my blog to be read from 5 to 10 minutes, lengthening them only when necessary.
 
-I'll try to blog at least once a month and covering one of the following topics :
+I'll try to blog at least once a month and to cover one of the following topics :
 
 <ul>
-	<li>Computer science and software</li>
-	<li>Machine learning, most of it deep and reinforcement learning</li>
-	<li>Books, both technical and suspense / sci-fi</li>
-	<li>Topics such as time management, sports, investing or personal goals</li>
+	<li>Computer science and software.</li>
+	<li>Machine learning, most of it deep and reinforcement learning.</li>
+	<li>Books, both technical and suspense/sci-fi.</li>
+	<li>Topics such as time management, sports, investing or personal goals.</li>
 </ul>
