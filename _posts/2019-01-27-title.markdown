@@ -18,5 +18,5 @@ I'll try to blog at least once a month and to cover one of the following topics 
 	<li>Computer science and software.</li>
 	<li>Machine learning, most of it deep and reinforcement learning.</li>
 	<li>Books, both technical and suspense/sci-fi.</li>
-	<li>Topics such as time management, sports, investing or personal goals.</li>
+	<li>Topics such as time management, health, investing or personal goals.</li>
 </ul>
