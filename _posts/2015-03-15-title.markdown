@@ -4,7 +4,7 @@ title:  A brief introduction
 date:   2019-01-27 21:40:16
 description: Introduction to my new blog
 ---
-After a long period of thinking whether or not releasing a personal blog, I've decided to start this journey on 2019. To put you into a little of perspective, my name is Guillem Muñoz and I work as a software engineer in Datumize, a startup based on Barcelona, that aims to create data products addressed to different industries, such as travel, retail or warehousing.
+After a long period of thinking whether or not releasing a personal blog, I've decided to start this journey on 2019. To put you into a little of perspective, my name is Guillem Muñoz and I work as a software engineer at Datumize, a startup based in Barcelona, that aims to create data products addressed to different industries, such as travel, retail or warehousing.
 
 Since I was very young, I was very attracted by maths and tech. I began competing in calculus when I was 11 and was selected for national programs. At college, I decided to study Telecommunications Engineering (a mix of computer, network and electrical engineering) at Universitat Politècnica de Catalunya (UPC), and finished in four years while researching in different departments and obtaining several awards.
 
