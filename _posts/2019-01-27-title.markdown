@@ -6,7 +6,7 @@ description: Background, interests and future topics
 ---
 After a long period of thinking whether or not releasing a personal blog, I've decided to start this journey on 2019. To put you into a little of perspective, my name is Guillem Muñoz and I work as a software engineer at Datumize, a startup based in Barcelona, that aims to create data products addressed to different industries, such as travel, retail or warehousing.
 
-Since I was very young, I was very attracted by maths and tech. I began competing in calculus when I was 11 and was selected for national programs. At college, I decided to study Telecommunications Engineering (a mix of computer, network and electrical engineering) at Universitat Politècnica de Catalunya, and finished in four years while researching at different departments and obtaining several awards.
+Since I was very young, I was very attracted by maths and tech. I began competing in calculus when I was 11 and was selected for national programs. At college, I decided to study Electrical Engineering (or Telecommunications in Spain, as you wish) with a speciality in Network and Computer Engineering at Universitat Politècnica de Catalunya, and finished in four years while researching at different departments and obtaining several awards.
 
 At present, my main interests are general computer science and machine learning, and I mainly code in Python or Java. Moreover, I am continuously trying to learn new technologies and tools.
 
