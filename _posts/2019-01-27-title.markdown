@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A brief introduction
-date:   2019-01-27 21:40:16
+date:   2019-02-08 21:40:16
 description: Background, interests and future topics
 ---
 After a long period of thinking whether or not releasing a personal blog, I've decided to start this journey on 2019. To put you into a little of perspective, my name is Guillem Muñoz and I work as a software engineer at Datumize, a startup based in Barcelona, that aims to create data products addressed to different industries, such as travel, retail or warehousing.
@@ -10,7 +10,7 @@ Since I was very young, I was very attracted by maths and tech. I began competin
 
 At present, my main interests are general computer science and machine learning, and I mainly code in Python or Java. Moreover, I am continuously trying to learn new technologies and tools.
 
-As I personally hate long and tedious blogposts that end up explaining stuff with x10 more words than required, I'll try to summarize as much as possible the covered topics. So, expect entries at my blog to be read from 5 to 10 minutes, lengthening them only when necessary.
+As I personally don't enjoy long and tedious blog entries, I'll try to summarize as much as possible the covered topics. So, expect entries at my blog to be read from 5 to 10 minutes, making them longer only when necessary.
 
 I'll try to blog at least once a month and to cover one of the following topics :
 
